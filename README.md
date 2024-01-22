@@ -21,7 +21,6 @@ code
 
 ---
 horizontal rule
---- 
 
 [Splatjpg](https://i.pinimg.com/736x/ff/89/a6/ff89a6232f0ec2cfc655d63a829a0bfa.jpg)
 
