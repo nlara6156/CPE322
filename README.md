@@ -23,6 +23,6 @@ code
 horizontal rule
 --- 
 
-[SplatPNG](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vexels.com%2Ficon%2Fcute%2F&psig=AOvVaw2g8106kN9WkTuhi8zOY2Xr&ust=1706036268163000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMiWxsPW8YMDFQAAAAAdAAAAABAI)
+[Splatjpg](https://i.pinimg.com/736x/ff/89/a6/ff89a6232f0ec2cfc655d63a829a0bfa.jpg)
 
-![Splat PNG](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vexels.com%2Ficon%2Fcute%2F&psig=AOvVaw2g8106kN9WkTuhi8zOY2Xr&ust=1706036268163000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMiWxsPW8YMDFQAAAAAdAAAAABAI)
+![Splat PNG](https://i.pinimg.com/736x/ff/89/a6/ff89a6232f0ec2cfc655d63a829a0bfa.jpg)
