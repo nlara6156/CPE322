@@ -1,9 +1,5 @@
 # CPE322
-**Bold**
-
-_Italic_
-
->Block quote
+>**Hello, my name is** _Nadia Lara_
 
 **Unordered List**
 - one
