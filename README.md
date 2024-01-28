@@ -20,8 +20,6 @@ print("Hello World")
 ```
 
 ---
-horizontal rule
-
-[Splatjpg](https://i.pinimg.com/736x/ff/89/a6/ff89a6232f0ec2cfc655d63a829a0bfa.jpg)
+[LinkedIn](http://www.linkedin.com/in/nadia-lara)
 
 ![Splat PNG](https://i.pinimg.com/736x/ff/89/a6/ff89a6232f0ec2cfc655d63a829a0bfa.jpg)
