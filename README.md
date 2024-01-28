@@ -1,5 +1,5 @@
 # CPE322 Repo
-## Assignment:0
+## Assignment: 0
 Hello, my name is _Nadia Lara_
 
 **A little bit about me**
