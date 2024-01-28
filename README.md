@@ -1,6 +1,7 @@
 # CPE322 Repo
 ## Assignment:0
-Hello, my name is _Nadia Lara_ 
+Hello, my name is _Nadia Lara_
+
 **A little bit about me**
 - I'm a 3/4 Computer Engineering Major
 - I'm apart of SWE and Theta Phi Alpha
