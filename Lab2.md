@@ -114,18 +114,37 @@ Expected Output: Will display the files in the current directory
 
 Output:
 ```
-PS C:\Users\nadia\Work> ls
+PS C:\Users\nadia\iot> ls
 
 
-    Directory: C:\Users\nadia\Work
+    Directory: C:\Users\nadia\iot
 
 
 Mode                 LastWriteTime         Length Name
 ----                 -------------         ------ ----
-d-----         6/21/2023   4:17 PM                .vscode
-d-----         6/16/2023   1:28 PM                CPEWork
--a----         9/17/2023   4:36 PM           2671 7Layer.cc
--a----         9/17/2023   4:36 PM          97768 7Layer.exe
+d-----         3/27/2024   3:05 PM                apps
+d-----         3/27/2024   3:05 PM                cases
+d-----         3/27/2024   3:05 PM                economics
+d-----         3/27/2024   3:05 PM                health
+d-----         3/27/2024   3:05 PM                hype
+d-----         3/27/2024   3:05 PM                lesson1
+d-----         3/27/2024   3:05 PM                lesson10
+d-----         3/27/2024   3:05 PM                lesson2
+d-----         3/27/2024   3:05 PM                lesson3
+d-----         3/27/2024   3:05 PM                lesson4
+d-----         3/27/2024   3:05 PM                lesson5
+d-----         3/27/2024   3:05 PM                lesson6
+d-----         3/27/2024   3:05 PM                lesson7
+d-----         3/27/2024   3:05 PM                lesson8
+d-----         3/27/2024   3:05 PM                lesson9
+d-----         3/27/2024   3:05 PM                make
+d-----         3/27/2024   3:05 PM                projects
+d-----         3/27/2024   3:05 PM                special_probl
+                                                  ems
+d-----         3/27/2024   3:05 PM                standards
+d-----         3/27/2024   3:05 PM                systems
+d-----         3/27/2024   3:05 PM                tools
+-a----         3/27/2024   3:05 PM          17690 README.md
 ```
 
 ---
@@ -145,12 +164,85 @@ PS C:\Users\nadia\Work>
 
 ---
 
-###
+### 9
 
-Command: ``
+Command: `df`
 
-Expected Output:
+Expected Output: Will display the amount of available disk space
 
 Output:
 
+```
+PS C:\Users\nadia\iot> df
+Filesystem     1K-blocks      Used Available Use% Mounted on
+C:/msys64      482872316 219293932 263578384  46% /
+```
 
+---
+
+### 10
+
+Command: `mkdir demo`
+
+Expected Output: The mkdir command allows the user to make new directories in the terminal. 
+
+Output:
+
+```
+PS C:\Users\nadia\iot> mkdir demo
+
+
+    Directory: C:\Users\nadia\iot
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----         3/27/2024   3:27 PM                demo
+```
+
+---
+
+### 11
+
+Command: `cd demo`
+
+Expected Output: This will change the directory into the demo directory that we created in the previous command.
+
+Output:
+
+```
+PS C:\Users\nadia\iot> cd demo
+PS C:\Users\nadia\iot\demo>
+```
+
+---
+
+### 12
+
+Command: `nano file`
+
+Expected Output: The nano command is used to open, edit, save and exit files quickly. The filename typed following nano is the file that will be opened.
+
+Output:
+`will input photo`
+
+---
+
+### 13
+
+Command: `cat file`
+
+Expected Output: The cat, short for concatenate, command allows the terminal to display the contents of one or more files without opening it for editing.
+
+Output: 
+
+```
+PS C:\Users\nadia\iot\demo> cat file
+CPE 322
+```
+
+---
+
+### 14
+
+Command: `
