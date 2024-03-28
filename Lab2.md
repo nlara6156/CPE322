@@ -245,4 +245,57 @@ CPE 322
 
 ### 14
 
-Command: `
+Command: `cp  file file1`
+
+Expected Output: The cp command copies a file to another location. This will copy 'file' to 'file1'
+
+Output:
+
+```
+PS C:\Users\nadia\iot\demo> cp file file1
+PS C:\Users\nadia\iot\demo>
+```
+
+---
+
+### 15
+
+Command: `mv file file2`
+
+Expected Output: The mv command moves a file from one location to another. In this case it will move 'file' to 'file2'
+
+Output:
+```
+PS C:\Users\nadia\iot\demo> mv file file2
+PS C:\Users\nadia\iot\demo>
+```
+
+---
+
+###16
+
+Command: `rm file2`
+
+Expected Output: The rm command will remove a file. In this case it will remove 'file2
+
+Output: 
+```
+PS C:\Users\nadia\iot\demo> rm file2
+PS C:\Users\nadia\iot\demo>
+```
+
+---
+
+### 17
+
+Command: `clear`
+
+Expected Output: Will clear the terminal screen
+
+Output: 
+
+---
+
+### 18
+
+Command: `man uname`
