@@ -299,3 +299,79 @@ Output:
 ### 18
 
 Command: `man uname`
+
+Expected output: Will print the user manual of my operating system.
+
+Output: 
+
+---
+
+### 19 
+
+Command: `uname -a`
+
+Expected Output: Will printe specific system info
+
+Output: 
+
+```
+PS C:\> uname -a
+MSYS_NT-10.0-22631 DESKTOP-VTE7PSP 3.2.0-340.x86_64 2021-08-02 16:30 UTC x86_64 Msys
+```
+
+---
+
+### 20
+
+Command : `ifconfig`
+
+Expected Output: Will assign an address to a network interface or display current network interface configuration info (command not found)
+
+Output: 
+```
+PS C:\Users\nadia> ifconfig
+ifconfig : The term 'ifconfig' is not recognized as the name
+of a cmdlet, function, script file, or operable program. Check
+the spelling of the name, or if a path was included, verify
+that the path is correct and try again.
+At line:1 char:1
++ ifconfig
++ ~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (ifconfig:String
+   ) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+```
+
+---
+
+### 21
+
+Command: `ping localhost`
+
+Expected Output: This will print how well everything is performing
+
+Output:
+```
+Pinging DESKTOP-VTE7PSP [::1] with 32 bytes of data:
+Reply from ::1: time<1ms
+Reply from ::1: time<1ms
+Reply from ::1: time<1ms
+Reply from ::1: time<1ms
+
+Ping statistics for ::1:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+```
+
+---
+
+### 22
+
+Command: `netstat`
+
+Expected Output: This commmand will generate and display network status and protocol stats
+
+Output: `private`
+
+---
