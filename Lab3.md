@@ -1,15 +1,15 @@
 # Lab 3
 
-![photo1](images/CMD(julian,date, datetime, time).png)
+![photo1](images/Lab3_Photo1.png)
 
 
-![photo2](images/CMD(Sun, Moon).png)
+![photo2](images/Lab3_Photo2.png)
 
 
-![photo3](images/CMD(Sun, Moon, Coordinates).png)
+![photo3](images/Lab3_Photo3.png)
 
 
-![photo4](images/CMD(coordinates, address).png)
+![photo4](images/Lab3_Photo4.png)
 
 
-![photo5](images/CMD(cpu, battery, docstat).png)
+![photo5](images/Lab3_Photo5.png)
