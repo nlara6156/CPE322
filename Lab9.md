@@ -1,4 +1,4 @@
-## Lab 10
+## Lab 9
 ### Yang File
 
 ```
@@ -320,3 +320,6 @@ PS C:\demo> python -m plantuml intrusiondetection.uml
 [{'filename': 'intrusiondetection.uml', 'gen_success': True}]
 ```
 
+### Image of Intrustion Detection uml file
+
+![intrusiondetection](images/intrusiondetection.png)
