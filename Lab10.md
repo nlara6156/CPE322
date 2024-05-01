@@ -24,6 +24,24 @@ The hash for a tuple of vowels is: -8255807982862756380
 The hash for an object of person is: 3716378598450869949
 ```
 
+### SHA-2 Secure Hash Algorithm
+
+```
+PS C:\Users\nadia\iot\lesson10> python3
+Python 3.9.6 (default, Jul 25 2021, 21:17:24)
+[GCC 10.2.0] on cygwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import hashlib
+>>> m = hashlib.sha256(b"hello,world")
+>>> m.hexdigest()
+'77df263f49123356d28a4a8715d25bf5b980beeeb503cab46ea61ac9f3320eda'
+>>> m.digest_size
+32
+>>> m.block_size
+64
+```
+
+
 ### Tiniest Blockchain (Run of snakecoin.py)
 
 ```
