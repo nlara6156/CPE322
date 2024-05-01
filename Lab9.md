@@ -1,5 +1,7 @@
 ## Lab 10
-Yang File
+### Yang File
+
+```
 PS C:\demo> cat intrusiondetection.yang
 module intrusiondetection {
 
@@ -122,10 +124,15 @@ module intrusiondetection {
   }
  }
 }
+```
 
+### yin file 
 
-yin file 
+```
 PS C:\demo>  python -m pyang -f yin -o intrusiondetection.yin intrusiondetection.yang
+```
+
+```
 PS C:\demo> cat intrusiondetection.yin
 <?xml version="1.0" encoding="UTF-8"?>
 <module name="intrusiondetection"
@@ -253,9 +260,15 @@ the system.</text>
     </leaf>
   </notification>
 </module>
+```
 
-UML File
+### UML File
+
+```
 PS C:\demo>  python -m pyang -f uml -o intrusiondetection.uml intrusiondetection.yang --uml-no=stereotypes,annotation,typedef
+```
+
+```
 PS C:\demo> cat intrusiondetection.uml
 'Download plantuml from http://plantuml.sourceforge.net/
 'Generate png with java -jar plantuml.jar <file>
@@ -299,6 +312,11 @@ center footer
  <size:20> UML Generated : 2024-05-01 14:18 </size>
  endfooter
 @enduml
+```
+### Generating png of intrusion detection
 
+```
 PS C:\demo> python -m plantuml intrusiondetection.uml
 [{'filename': 'intrusiondetection.uml', 'gen_success': True}]
+```
+
