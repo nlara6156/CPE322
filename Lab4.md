@@ -2,12 +2,17 @@
 
 ### Django Project "Stevens"
 
-screenshot 282
+
+![photo1](images/Screenshot(282).png)
+
 
 ### Django REST Project "MyCPU"
 
-screenshot 287
+
+![photo2](images/Screenshot(287).png)
+
 
 ### Hello World App
 
-screenshot 290
+
+![photo3](images/Screenshot(290).png)
